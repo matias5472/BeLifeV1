@@ -1,2 +1,4 @@
 # BeLifeV1
-Trabajo
+
+1-. Solcuión de error de registro.
+
